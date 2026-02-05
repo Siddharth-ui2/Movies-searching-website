@@ -1,0 +1,1 @@
+Iam able to generate movies information and image by user searching its name using an api i put in my javascript code and edited how the information would be displayed using html to structure and css to style it has a user friendly and rather simpler ui and mainly focused on giving some info of the searched movie.
